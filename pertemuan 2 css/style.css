@@ -1,0 +1,21 @@
+h3{
+    background-color: aqua;
+    color: darkgreen ;
+}
+
+h1{
+    background-color: aquamarine;
+}
+
+.judul{
+    background-color: hotpink;
+}
+.lorem{
+    border: 2px solid black;
+    margin-top: 25px;
+    margin-left: 30px;
+    margin-bottom: 50px;
+    margin-right: 25px;
+    
+    padding: 25px;
+}
